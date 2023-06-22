@@ -1,0 +1,6 @@
+AutoGPTApiTools:
+  config: {}
+  enabled: true
+AutoGPTWeatherPlugin:
+  config: {}
+  enabled: true
